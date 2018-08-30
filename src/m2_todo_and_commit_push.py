@@ -67,7 +67,7 @@ print('Hello, World')
 #   Look at the Run window to be sure that your string printed as expected.
 #
 ###############################################################################
-
+print('My name is Ethan')
 ###############################################################################
 #
 # TODO: 4.
@@ -81,7 +81,7 @@ print('Hello, World')
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ###############################################################################
-
+print(3607 * 34227)
 ###############################################################################
 #
 # TODO: 5.
