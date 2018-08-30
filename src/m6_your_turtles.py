@@ -33,9 +33,12 @@ bloggy = rg.SimpleTurtle('turtle')
 bloggy.pen = rg.Pen('Midnight Blue', 10)
 criggy = rg.SimpleTurtle()
 criggy.pen = rg.Pen('Green', 10)
+window = rg.TurtleWindow()
 criggy.speed = 30
 size = 5
 bloggy.speed = 40
+
+
 for x in range(200):
     bloggy.right(45)
     bloggy.forward(size)
