@@ -28,6 +28,9 @@ print(answer * 100)
 #     - Prints the square root of that computed value.
 #   Run your code (fix errors as needed), then change the above _TODO_ to DONE.
 ###############################################################################
+import math
+
+print(77 + math.cos(2.75))
 
 ###############################################################################
 # TODO: 3.
@@ -37,6 +40,7 @@ print(answer * 100)
 #   Run your code (fix errors as needed), then change the above _TODO_ to DONE.
 ###############################################################################
 
+print((41 + 88) + (4 * math.cos(2)))
 
 ###############################################################################
 # TODO: 4.
@@ -48,6 +52,8 @@ print(answer * 100)
 #   Run your code (fix errors as needed), then change the above _TODO_ to DONE.
 ###############################################################################
 
+print(math.sqrt(2))
+print(2 ** 0.5)
 
 ###############################################################################
 # TODO: 5.
@@ -89,3 +95,16 @@ print(answer * 100)
 # After you have written and run the code to learn the TYPE
 # of each of the above, change the above _TODO_ to DONE.
 ###############################################################################
+
+print("hello") #String
+print("hello") #String
+print("a b c") #String
+print(3 + 3) #Integer
+print("3" + "3") #String
+print(2 ** 100) #Integer
+print(2.0 ** 100) #Float
+print(math.sin(8)) #Method
+print(math.sin) #Instance Variable
+print() #Method
+math #Module
+print('math') #String
